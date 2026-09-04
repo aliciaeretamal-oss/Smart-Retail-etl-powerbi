@@ -10,7 +10,7 @@ un modelo de datos con una métrica calculada (DAX) para su visualización en Po
 - `inventario.xlsx` — stock actual por producto y sucursal.
 - `Smart_retail_ETL.pbix` — archivo de Power BI con el modelo y las visualizaciones.
 - `Paso a paso ETL y visualizacion Smart Retail.pptx` — documentación del proceso paso a paso.
-- `dashboard.png` — captura del dashboard final *(agregar al subir el repo)*.
+- `dashboard.png` — captura del dashboard final.
 
 ## Proceso (ETL)
 1. Carga de `ventas.csv` en Power BI Desktop vía Inicio → Obtener datos → CSV,
