@@ -28,8 +28,10 @@ un modelo de datos con una métrica calculada (DAX) para su visualización en Po
 Power BI Desktop (Power Query, modelo de datos, DAX), CSV, Excel.
 
 ## Cómo revisarlo
-- Abrir `Smart_retail_ETL.pbix` con Power BI Desktop (gratuito), o
+- Abrir `Smart_retail_ETL.pbix` con Power BI Desktop, o
 - Revisar directamente `dashboard.png` para ver el resultado sin instalar nada.
+
+![Dashboard Smart Retail](dashboard.png)
 
 ## Autora
 Alicia Retamal Durán — [GitHub](https://github.com/aliciaeretamal-oss) ·
