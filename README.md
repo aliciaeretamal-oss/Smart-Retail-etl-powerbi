@@ -33,4 +33,4 @@ Power BI Desktop (Power Query, modelo de datos, DAX), CSV, Excel.
 
 ## Autora
 Alicia Retamal Durán — [GitHub](https://github.com/aliciaeretamal-oss) ·
-[LinkedIn](www.linkedin.com/in/alicia-retamal-mechanicalengineer)
+[LinkedIn](https://www.linkedin.com/in/alicia-retamal-mechanicalengineer)
